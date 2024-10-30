@@ -1,0 +1,14 @@
+.ccc_form_element label {
+    display: block;
+}
+.ccc_form_element .error {
+    color:  red;
+}
+.ccc_form_element input, .ccc_form_submit input {
+    padding: 0.5em;
+    min-width:  50%;
+}
+.ccc_form_submit {
+    text-align: center;
+    padding: 1em 0em;
+}

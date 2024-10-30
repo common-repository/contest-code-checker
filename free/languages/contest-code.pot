@@ -1,0 +1,318 @@
+# Copyright (C) 2018 {package-name}
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots/\n"
+"POT-Creation-Date: 2018-06-05 22:43:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-contest-code-checker-admin.php:152
+#: admin/class-contest-code-checker-admin.php:153
+msgid "Contest Code Checker"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:159
+#: admin/class-contest-code-checker-admin.php:160
+#: admin/contestants/class-contestants-table.php:62
+#: admin/contestants/class-contestants-table.php:63
+#: admin/partials/contest-code-checker-admin-display.php:51
+#: includes/class-contest-code-checker.php:269
+msgid "Contestants"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:166
+#: admin/class-contest-code-checker-admin.php:167
+#: admin/contest_codes/class-contest-codes-table.php:63
+#: admin/partials/contest-code-checker-admin-display.php:29
+#: includes/class-contest-code-checker.php:252
+#: includes/class-contest-code-checker.php:256
+msgid "Contest Codes"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:173
+#: admin/class-contest-code-checker-admin.php:174
+#: admin/partials/contest-code-checker-admin-display-prizes.php:24
+#: admin/prizes/class-prizes-table.php:63
+msgid "Generic Prizes"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:180
+#: admin/class-contest-code-checker-admin.php:181
+#: admin/partials/contest-code-checker-admin-display.php:148
+#: admin/partials/contest-code-checker-admin-display.php:163
+msgid "Import Contest Codes"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:193
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:196
+msgid "Start date of contest"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:202
+msgid "End date of contest"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:208
+msgid "Display pop-over with prize information"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:214
+msgid "Pop-over Dimensions"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:220
+msgid "Email winners with prize information"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:226
+msgid "Winner email subject"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:232
+msgid "Beginning of winner email"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:238
+msgid "Text for When Someone Wins"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:244
+msgid "Text for When Someone Loses"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:250
+msgid "Text for Invalid Contest Code"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:256
+msgid "Text for Already Used Contest Code"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:262
+msgid "Text for when the contest is not currently running"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:268
+msgid "Hide email address"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:274
+msgid "Hide first name"
+msgstr ""
+
+#: admin/class-contest-code-checker-admin.php:280
+msgid "Hide last name"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:62
+#: admin/contest_codes/class-contest-codes-table.php:170
+#: admin/contestants/class-contestants-table.php:200
+#: includes/class-contest-code-checker.php:255
+msgid "Contest Code"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:137
+#: admin/prizes/class-prizes-table.php:138
+msgid "Edit"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:139
+#: admin/contest_codes/class-contest-codes-table.php:203
+#: admin/contestants/class-contestants-table.php:140
+#: admin/contestants/class-contestants-table.php:233
+#: admin/prizes/class-prizes-table.php:140
+#: admin/prizes/class-prizes-table.php:201
+msgid "Delete"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:171
+msgid "Prize"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:172
+msgid "Has Been Used"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:267
+msgid "Yes"
+msgstr ""
+
+#: admin/contest_codes/class-contest-codes-table.php:269
+msgid "No"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:154
+msgid "winner"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:189
+#: public/partials/contest-code-checker-public-display.php:27
+msgid "First Name"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:193
+#: public/partials/contest-code-checker-public-display.php:28
+msgid "Last Name"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:197
+msgid "Email Address"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:201
+msgid "Invalid Code"
+msgstr ""
+
+#: admin/contestants/class-contestants-table.php:202
+msgid "Submission Date"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:24
+#: admin/partials/contest-code-checker-admin-display.php:29
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:42
+msgid "Edit Generic Prize"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:44
+msgid "Add Generic Prize"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:45
+#: admin/partials/contest-code-checker-admin-display.php:75
+msgid "Go Back"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:52
+#: admin/prizes/class-prizes-table.php:171
+msgid "Prize Name"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:60
+msgid "Associated Prizes"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:88
+msgid "Description"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display-prizes.php:101
+msgid "Save Generic Prize"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:31
+#: admin/partials/contest-code-checker-admin-display.php:138
+msgid "Delete All Contest Codes"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:32
+msgid "Export Contest Codes"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:53
+msgid "Export Winners"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:54
+msgid "Export All"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:72
+msgid "Edit Contest Code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:74
+msgid "Add Contest Code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:82
+msgid "Contest code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:90
+msgid "Prize associated with code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:98
+msgid "Has this code been used?"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:107
+msgid "Prize Details"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:120
+msgid "Save Contest Code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:132
+msgid "Are you sure you want to delete all contest codes?"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:151
+msgid "Import contest codes from a Excel or CSV file. The format is as follows:"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:154
+msgid "Column 1: Contest Code"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:155
+msgid "Column 2: Prize (if any)"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-display.php:156
+msgid "Column 3: Prize description"
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-settings.php:23
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/contest-code-checker-admin-settings.php:26
+msgid "Contest Code Checker General Settings"
+msgstr ""
+
+#: admin/prizes/class-prizes-table.php:62
+msgid "Generic Prize"
+msgstr ""
+
+#: admin/prizes/class-prizes-table.php:172
+#: includes/class-contest-code-checker.php:283
+msgid "Prizes"
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:29
+msgid "Email"
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:30
+msgid "Prize Code"
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:31
+msgid "Submit Prize"
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:91
+msgid "This contest is currently not running."
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:121
+msgid "The code you entered was not a winner."
+msgstr ""
+
+#: public/partials/contest-code-checker-public-display.php:161
+msgid "You have entered a winner!"
+msgstr ""

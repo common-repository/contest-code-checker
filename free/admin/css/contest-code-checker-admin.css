@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#contestantExportContainer {
+	float:right;
+}
+#ccc_ready_checklist_container {
+	background-color: white;
+	position: absolute;
+	right: 20px;
+	width: 250px;
+	padding: 0.5em;
+	border: 1px solid #32373c;
+	margin-right:20px;
+}
